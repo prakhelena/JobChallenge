@@ -78,4 +78,7 @@ public class Elements {
 		
 		@FindBy (id = "coin_8")
 		public WebElement findBarButton8;
+		
+		@FindBy (xpath = "//li")
+		public WebElement invalidInput;
 }

@@ -84,10 +84,8 @@
 					<configuration>
 					<suiteXmlFiles>
 					
-					<suiteXmlFile>${runner1}</suiteXmlFile>
-					
-					
-					
+					<suiteXmlFile>${runner}</suiteXmlFile>
+									
 					
 					</suiteXmlFiles>
 					
