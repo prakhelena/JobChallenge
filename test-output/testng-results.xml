@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7579" started-at="2021-03-13T02:14:16 EST" finished-at="2021-03-13T02:14:23 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7579" started-at="2021-03-13T02:14:16 EST" finished-at="2021-03-13T02:14:23 EST">
+      <class name="MyJob.JobChallenge.AppTest">
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:MyJob.JobChallenge.AppTest@5e25a92e]" name="setupMethod" is-config="true" duration-ms="6119" started-at="2021-03-13T02:14:16 EST" finished-at="2021-03-13T02:14:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="findUniqueBar()[pri:0, instance:MyJob.JobChallenge.AppTest@5e25a92e]" name="findUniqueBar" duration-ms="677" started-at="2021-03-13T02:14:22 EST" finished-at="2021-03-13T02:14:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findUniqueBar -->
+        <test-method status="PASS" signature="teardownMethod()[pri:0, instance:MyJob.JobChallenge.AppTest@5e25a92e]" name="teardownMethod" is-config="true" duration-ms="738" started-at="2021-03-13T02:14:23 EST" finished-at="2021-03-13T02:14:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownMethod -->
+      </class> <!-- MyJob.JobChallenge.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
